@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: ren.qinc.edgetranslucent:lib:0.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e8f67b742e09c98f557398f9d00805c/jetified-lib-0.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e8f67b742e09c98f557398f9d00805c/jetified-lib-0.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e8f67b742e09c98f557398f9d00805c/jetified-lib-0.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ren.qinc.edgetranslucent/lib/0.0.3/e33718d64fa2181e4a7c86c39090c5e71224c412/lib-0.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ren.qinc.edgetranslucent/lib/0.0.3/5da0fc8f61e7de8c070779a5c32b8fb425477c23/lib-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

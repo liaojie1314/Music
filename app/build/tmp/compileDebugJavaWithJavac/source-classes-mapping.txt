@@ -1,0 +1,107 @@
+com/example/music/databinding/LayoutPlaylistBinding.java
+ com.example.music.databinding.LayoutPlaylistBinding
+com/example/music/widget/PressFrameLayout.java
+ com.example.music.widget.PressFrameLayout
+com/example/music/BuildConfig.java
+ com.example.music.BuildConfig
+com/example/music/databinding/DialogTextInfoBinding.java
+ com.example.music.databinding.DialogTextInfoBinding
+com/example/music/util/cache/ACache.java
+ com.example.music.util.cache.ACache
+ com.example.music.util.cache.ACache$1
+ com.example.music.util.cache.ACache$ACacheManager
+ com.example.music.util.cache.ACache$ACacheManager$1
+ com.example.music.util.cache.ACache$Utils
+com/example/music/databinding/ActivitySplashBinding.java
+ com.example.music.databinding.ActivitySplashBinding
+com/example/music/databinding/ActivityUserBinding.java
+ com.example.music.databinding.ActivityUserBinding
+com/example/music/databinding/ActivityMainBinding.java
+ com.example.music.databinding.ActivityMainBinding
+com/example/music/databinding/ActivityWebBinding.java
+ com.example.music.databinding.ActivityWebBinding
+com/example/music/databinding/DialogPlayMoreBinding.java
+ com.example.music.databinding.DialogPlayMoreBinding
+com/example/music/databinding/ActivityFeedbackBinding.java
+ com.example.music.databinding.ActivityFeedbackBinding
+com/example/music/databinding/ActivityLocalMusicBinding.java
+ com.example.music.databinding.ActivityLocalMusicBinding
+com/example/music/databinding/IncludeSearchSuggestBinding.java
+ com.example.music.databinding.IncludeSearchSuggestBinding
+com/example/music/databinding/LayoutCommentBinding.java
+ com.example.music.databinding.LayoutCommentBinding
+com/example/music/databinding/ActivityLoginByPhoneBinding.java
+ com.example.music.databinding.ActivityLoginByPhoneBinding
+com/example/music/databinding/LayoutOpenSourceItemBinding.java
+ com.example.music.databinding.LayoutOpenSourceItemBinding
+com/example/music/databinding/ActivityPlayHistoryBinding.java
+ com.example.music.databinding.ActivityPlayHistoryBinding
+com/example/music/databinding/ActivitySearchBinding.java
+ com.example.music.databinding.ActivitySearchBinding
+com/example/music/databinding/FragmentHomeBinding.java
+ com.example.music.databinding.FragmentHomeBinding
+com/example/music/databinding/ActivitySettingsBinding.java
+ com.example.music.databinding.ActivitySettingsBinding
+com/example/music/databinding/FragmentMyBinding.java
+ com.example.music.databinding.FragmentMyBinding
+com/example/music/databinding/ActivityCommentBinding.java
+ com.example.music.databinding.ActivityCommentBinding
+com/example/music/databinding/LayoutDetailPlaylistBinding.java
+ com.example.music.databinding.LayoutDetailPlaylistBinding
+com/example/music/room/MyFavoriteMusic_Impl.java
+ com.example.music.room.MyFavoriteMusic_Impl
+ com.example.music.room.MyFavoriteMusic_Impl$1
+ com.example.music.room.MyFavoriteMusic_Impl$2
+ com.example.music.room.MyFavoriteMusic_Impl$3
+ com.example.music.room.MyFavoriteMusic_Impl$4
+com/example/music/databinding/ActivityAboutBinding.java
+ com.example.music.databinding.ActivityAboutBinding
+com/example/music/databinding/DialogSoundEffectBinding.java
+ com.example.music.databinding.DialogSoundEffectBinding
+com/example/music/databinding/LayoutPlaylistDialogBinding.java
+ com.example.music.databinding.LayoutPlaylistDialogBinding
+com/example/music/databinding/ActivityPrivateLetterBinding.java
+ com.example.music.databinding.ActivityPrivateLetterBinding
+com/example/music/databinding/MenuMainBinding.java
+ com.example.music.databinding.MenuMainBinding
+com/example/music/widget/TouchArea.java
+ com.example.music.widget.TouchArea
+com/example/music/databinding/ActivityArtistBinding.java
+ com.example.music.databinding.ActivityArtistBinding
+com/example/music/databinding/DialogCreateLocalPlaylistBinding.java
+ com.example.music.databinding.DialogCreateLocalPlaylistBinding
+com/example/music/databinding/DialogSongInfoBinding.java
+ com.example.music.databinding.DialogSongInfoBinding
+com/example/music/databinding/ExampleTitlebarLayoutBinding.java
+ com.example.music.databinding.ExampleTitlebarLayoutBinding
+com/example/music/databinding/DialogSongMenuBinding.java
+ com.example.music.databinding.DialogSongMenuBinding
+com/example/music/databinding/RecycleViewPlaylistRecommendBinding.java
+ com.example.music.databinding.RecycleViewPlaylistRecommendBinding
+com/example/music/databinding/ExampleValueViewLayoutBinding.java
+ com.example.music.databinding.ExampleValueViewLayoutBinding
+com/example/music/databinding/DialogPlayListBinding.java
+ com.example.music.databinding.DialogPlayListBinding
+com/example/music/databinding/RecycleItemPrivateLetterBinding.java
+ com.example.music.databinding.RecycleItemPrivateLetterBinding
+com/example/music/databinding/RecycleItemSearchHotBinding.java
+ com.example.music.databinding.RecycleItemSearchHotBinding
+com/example/music/room/AppDatabase_Impl.java
+ com.example.music.room.AppDatabase_Impl
+ com.example.music.room.AppDatabase_Impl$1
+com/example/music/databinding/ExampleItemLayoutBinding.java
+ com.example.music.databinding.ExampleItemLayoutBinding
+com/example/music/databinding/ActivityPlaylistBinding.java
+ com.example.music.databinding.ActivityPlaylistBinding
+com/example/music/databinding/LayoutPlayBinding.java
+ com.example.music.databinding.LayoutPlayBinding
+com/example/music/databinding/RecycleItemSongBinding.java
+ com.example.music.databinding.RecycleItemSongBinding
+com/example/music/databinding/ExampleBannerLayoutBinding.java
+ com.example.music.databinding.ExampleBannerLayoutBinding
+com/example/music/databinding/ActivityLoginBinding.java
+ com.example.music.databinding.ActivityLoginBinding
+com/example/music/databinding/ActivityLoginByUidBinding.java
+ com.example.music.databinding.ActivityLoginByUidBinding
+com/example/music/databinding/ActivityPlayerLandBinding.java
+ com.example.music.databinding.ActivityPlayerLandBinding

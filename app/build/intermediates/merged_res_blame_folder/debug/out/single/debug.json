@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_music.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\mipmap-xxhdpi\\music.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_play_arrow_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_player_land.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_player_land.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_page_latest_mark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\local_page_latest_mark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_example_titlebar_layout.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_titlebar_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_page_follow_bg.webp.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\local_page_follow_bg.webp"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_comment.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_comment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_transparency.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_transparency.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cloud_music_engine.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_cloud_music_engine.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_tab_indicator.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_by_uid.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_login_by_uid.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_line.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_line.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_playlist_dialog.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_playlist_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_page_music_mark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\local_page_music_mark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\raw_lottie_loading.json.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\raw\\lottie_loading.json"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_btn.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_play_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rd.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_rd.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_icon.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_playlist.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_play.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comment.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_like.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_search_suggest.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\include_search_suggest.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_music.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\mipmap-mdpi\\music.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_player_mode_random.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_player_mode_random.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_open_source_item.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_open_source_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_play_list.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_play_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_skip_previous_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_skip_previous_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_ic_sb_more_normal.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_ic_sb_more_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_track.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\switch_track.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tape_in.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\tape_in.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_circle_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_remove_circle_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_artist.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_artist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_playlist.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_playlist.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_player_land.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout-land\\activity_player_land.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_recycle_item.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\anim\\anim_recycle_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_liked.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_liked.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_item_private_letter.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_item_private_letter.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_page_local_bg.webp.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\local_page_local_bg.webp"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_btn_copy_prev_page.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_btn_copy_prev_page.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lrc_play.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\lrc_play.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bq_song_tag_new.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\icon_bq_song_tag_new.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_add_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_add_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_star.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_example_item_layout.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_github.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_github.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_history.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_play_history.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_search_list_search_icon.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_search_list_search_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_sound_effect.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_sound_effect.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_item_default.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_item_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_skip_next_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_pause_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_pause_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_next.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_play_next.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_music.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\mipmap-xhdpi\\music.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_item_song.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_item_song.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_equalizer.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_equalizer.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bq_no_data_song.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bq_no_data_song.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_xiami_tape.jpg.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_xiami_tape.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_page_follow_mark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\local_page_follow_mark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tape_center.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\tape_center.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_kuwo_music_engine.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_kuwo_music_engine.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_main.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_control_pause.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_control_pause.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cancel.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_cancel.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_view_playlist_recommend.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_view_playlist_recommend.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_player_playlist.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_player_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_history_filter.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_history_filter.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_login_background.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_login_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_love_music_filter.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_love_music_filter.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_volume.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_create_local_playlist.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_create_local_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\Music\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_by_phone.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_login_by_phone.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_exit_bottom.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\anim\\anim_slide_exit_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_song_menu.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_song_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cloud_music.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_cloud_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_translation.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_translation.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_no_anim.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\anim\\anim_no_anim.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_home_widget.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_home_widget.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_item_search_hot.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_item_search_hot.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_seek_bar_music.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_seek_bar_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_music.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\mipmap-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_qq_music_engine.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_qq_music_engine.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scrollbar_default.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\scrollbar_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_enter_bottom.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\anim\\anim_slide_enter_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_text_info.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_text_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_github.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_local_music_filter.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_local_music_filter.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_music.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\mipmap-xxxhdpi\\music.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_seek_bar_thumb.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_seek_bar_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_information_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_information_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_local_page_buy_bg.webp.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\local_page_buy_bg.webp"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tape_cell.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\tape_cell.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_btn.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_pause_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bq_song_tag_hq.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bq_song_tag_hq.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_example_banner_layout.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_banner_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_playlist.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brp.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\brp.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_song_info.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_song_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_private_letter.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_private_letter.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_example_value_view_layout.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_value_view_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_collect_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_collect_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_player_mode_circle.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_player_mode_circle.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_cursor_drawable.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\text_cursor_drawable.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_radius.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_button_radius.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bq_song_tag_vip.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bq_song_tag_vip.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit_text.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bq_player_mode_repeat_one.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_bq_player_mode_repeat_one.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_share_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_share_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_comments_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_comments_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mini_player_play.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_mini_player_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_playlist_page.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_playlist_page.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_play_more.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_play_more.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_dialog.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_next.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_sticky_nav.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_sticky_nav.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seek_bar_thumb_btn.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\seek_bar_thumb_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_download_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_download_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_playlist_recommend_number.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_playlist_recommend_number.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_home_ball.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_home_ball.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_detail_playlist.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_detail_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_music.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_local_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_radius_red.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\background_button_radius_red.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_loading.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_loading.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_thumb.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\raw_lottie_fly.json.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\raw\\lottie_fly.json"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_slide_layout.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\bg_slide_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_music_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\ic_music_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mz_titlebar_ic_refresh_dark.png.flat",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\drawable\\mz_titlebar_ic_refresh_dark.png"
+    }
+]

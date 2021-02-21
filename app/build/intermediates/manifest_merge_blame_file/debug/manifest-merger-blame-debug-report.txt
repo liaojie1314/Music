@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.music2application"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Android\Music\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\Android\Music\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Android\Music\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\Android\Music\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->E:\Android\Music\app\src\main\AndroidManifest.xml:7:5-77
+12-->E:\Android\Music\app\src\main\AndroidManifest.xml:7:22-74
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->E:\Android\Music\app\src\main\AndroidManifest.xml:8:5-79
+13-->E:\Android\Music\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->E:\Android\Music\app\src\main\AndroidManifest.xml:9:5-76
+14-->E:\Android\Music\app\src\main\AndroidManifest.xml:9:22-73
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->E:\Android\Music\app\src\main\AndroidManifest.xml:10:5-68
+15-->E:\Android\Music\app\src\main\AndroidManifest.xml:10:22-65
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->E:\Android\Music\app\src\main\AndroidManifest.xml:11:5-13:40
+16-->E:\Android\Music\app\src\main\AndroidManifest.xml:12:9-65
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->E:\Android\Music\app\src\main\AndroidManifest.xml:14:5-75
+17-->E:\Android\Music\app\src\main\AndroidManifest.xml:14:22-72
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->E:\Android\Music\app\src\main\AndroidManifest.xml:15:5-71
+18-->E:\Android\Music\app\src\main\AndroidManifest.xml:15:22-68
+19
+20    <application
+20-->E:\Android\Music\app\src\main\AndroidManifest.xml:17:5-82:19
+21        android:name="com.example.music.MyApplication"
+21-->E:\Android\Music\app\src\main\AndroidManifest.xml:18:9-38
+22        android:allowBackup="true"
+22-->E:\Android\Music\app\src\main\AndroidManifest.xml:19:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78b171fb121e51ea7ac9b1d541fbc699\core-1.3.2\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/music"
+25-->E:\Android\Music\app\src\main\AndroidManifest.xml:20:9-37
+26        android:label="@string/app_name"
+26-->E:\Android\Music\app\src\main\AndroidManifest.xml:21:9-41
+27        android:networkSecurityConfig="@xml/network_security_config"
+27-->E:\Android\Music\app\src\main\AndroidManifest.xml:22:9-69
+28        android:requestLegacyExternalStorage="true"
+28-->E:\Android\Music\app\src\main\AndroidManifest.xml:23:9-52
+29        android:supportsRtl="true"
+29-->E:\Android\Music\app\src\main\AndroidManifest.xml:24:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->E:\Android\Music\app\src\main\AndroidManifest.xml:25:9-40
+32        <activity android:name="com.example.music.ui.activity.AboutActivity" />
+32-->E:\Android\Music\app\src\main\AndroidManifest.xml:27:9-63
+32-->E:\Android\Music\app\src\main\AndroidManifest.xml:27:19-60
+33        <activity android:name="com.example.music.ui.activity.ArtistActivity" />
+33-->E:\Android\Music\app\src\main\AndroidManifest.xml:28:9-64
+33-->E:\Android\Music\app\src\main\AndroidManifest.xml:28:19-61
+34        <activity android:name="com.example.music.ui.activity.PlayHistoryActivity" />
+34-->E:\Android\Music\app\src\main\AndroidManifest.xml:29:9-69
+34-->E:\Android\Music\app\src\main\AndroidManifest.xml:29:19-66
+35        <activity
+35-->E:\Android\Music\app\src\main\AndroidManifest.xml:30:9-32:58
+36            android:name="com.example.music.ui.activity.LoginActivity"
+36-->E:\Android\Music\app\src\main\AndroidManifest.xml:31:13-54
+37            android:theme="@style/AppTheme.FullScreen" />
+37-->E:\Android\Music\app\src\main\AndroidManifest.xml:32:13-55
+38        <activity android:name="com.example.music.ui.activity.PrivateLetterActivity" />
+38-->E:\Android\Music\app\src\main\AndroidManifest.xml:33:9-71
+38-->E:\Android\Music\app\src\main\AndroidManifest.xml:33:19-68
+39        <activity
+39-->E:\Android\Music\app\src\main\AndroidManifest.xml:34:9-36:58
+40            android:name="com.example.music.ui.activity.UserActivity"
+40-->E:\Android\Music\app\src\main\AndroidManifest.xml:35:13-53
+41            android:theme="@style/AppTheme.FullScreen" />
+41-->E:\Android\Music\app\src\main\AndroidManifest.xml:36:13-55
+42        <activity android:name="com.example.music.ui.activity.WebActivity" />
+42-->E:\Android\Music\app\src\main\AndroidManifest.xml:37:9-61
+42-->E:\Android\Music\app\src\main\AndroidManifest.xml:37:19-58
+43        <activity android:name="com.example.music.ui.activity.LocalMusicActivity" />
+43-->E:\Android\Music\app\src\main\AndroidManifest.xml:38:9-68
+43-->E:\Android\Music\app\src\main\AndroidManifest.xml:38:19-65
+44        <activity android:name="com.example.music.ui.activity.FeedbackActivity" />
+44-->E:\Android\Music\app\src\main\AndroidManifest.xml:39:9-66
+44-->E:\Android\Music\app\src\main\AndroidManifest.xml:39:19-63
+45        <activity
+45-->E:\Android\Music\app\src\main\AndroidManifest.xml:40:9-42:55
+46            android:name="com.example.music.ui.activity.SearchActivity"
+46-->E:\Android\Music\app\src\main\AndroidManifest.xml:41:13-55
+47            android:windowSoftInputMode="adjustPan" />
+47-->E:\Android\Music\app\src\main\AndroidManifest.xml:42:13-52
+48        <activity
+48-->E:\Android\Music\app\src\main\AndroidManifest.xml:43:9-45:70
+49            android:name="com.example.music.ui.activity.CommentActivity"
+49-->E:\Android\Music\app\src\main\AndroidManifest.xml:44:13-56
+50            android:theme="@style/AppTheme.FullScreen.Translucent" />
+50-->E:\Android\Music\app\src\main\AndroidManifest.xml:45:13-67
+51        <activity android:name="com.example.music.ui.activity.SettingsActivity" />
+51-->E:\Android\Music\app\src\main\AndroidManifest.xml:46:9-66
+51-->E:\Android\Music\app\src\main\AndroidManifest.xml:46:19-63
+52        <activity
+52-->E:\Android\Music\app\src\main\AndroidManifest.xml:47:9-50:70
+53            android:name="com.example.music.ui.activity.PlayerActivity"
+53-->E:\Android\Music\app\src\main\AndroidManifest.xml:48:13-55
+54            android:launchMode="singleTask"
+54-->E:\Android\Music\app\src\main\AndroidManifest.xml:49:13-44
+55            android:theme="@style/AppTheme.FullScreen.Translucent" />
+55-->E:\Android\Music\app\src\main\AndroidManifest.xml:50:13-67
+56        <activity
+56-->E:\Android\Music\app\src\main\AndroidManifest.xml:51:9-53:58
+57            android:name="com.example.music.ui.activity.PlaylistActivity"
+57-->E:\Android\Music\app\src\main\AndroidManifest.xml:52:13-57
+58            android:theme="@style/AppTheme.FullScreen" />
+58-->E:\Android\Music\app\src\main\AndroidManifest.xml:53:13-55
+59        <activity
+59-->E:\Android\Music\app\src\main\AndroidManifest.xml:54:9-56:58
+60            android:name="com.example.music.ui.activity.PlaylistActivity2"
+60-->E:\Android\Music\app\src\main\AndroidManifest.xml:55:13-58
+61            android:theme="@style/AppTheme.FullScreen" />
+61-->E:\Android\Music\app\src\main\AndroidManifest.xml:56:13-55
+62        <activity android:name="com.example.music.ui.activity.LoginByUidActivity" />
+62-->E:\Android\Music\app\src\main\AndroidManifest.xml:57:9-68
+62-->E:\Android\Music\app\src\main\AndroidManifest.xml:57:19-65
+63        <activity android:name="com.example.music.ui.activity.LoginByPhoneActivity" />
+63-->E:\Android\Music\app\src\main\AndroidManifest.xml:58:9-70
+63-->E:\Android\Music\app\src\main\AndroidManifest.xml:58:19-67
+64        <activity
+64-->E:\Android\Music\app\src\main\AndroidManifest.xml:59:9-63:58
+65            android:name="com.example.music.ui.activity.MainActivity"
+65-->E:\Android\Music\app\src\main\AndroidManifest.xml:60:13-53
+66            android:exported="true"
+66-->E:\Android\Music\app\src\main\AndroidManifest.xml:61:13-36
+67            android:launchMode="singleTask"
+67-->E:\Android\Music\app\src\main\AndroidManifest.xml:62:13-44
+68            android:theme="@style/AppTheme.FullScreen" />
+68-->E:\Android\Music\app\src\main\AndroidManifest.xml:63:13-55
+69        <activity
+69-->E:\Android\Music\app\src\main\AndroidManifest.xml:64:9-72:20
+70            android:name="com.example.music.ui.activity.SplashActivity"
+70-->E:\Android\Music\app\src\main\AndroidManifest.xml:65:13-55
+71            android:theme="@style/AppTheme.FullScreen" >
+71-->E:\Android\Music\app\src\main\AndroidManifest.xml:66:13-55
+72            <intent-filter>
+72-->E:\Android\Music\app\src\main\AndroidManifest.xml:67:13-71:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->E:\Android\Music\app\src\main\AndroidManifest.xml:68:17-69
+73-->E:\Android\Music\app\src\main\AndroidManifest.xml:68:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->E:\Android\Music\app\src\main\AndroidManifest.xml:70:17-77
+75-->E:\Android\Music\app\src\main\AndroidManifest.xml:70:27-74
+76            </intent-filter>
+77        </activity>
+78
+79        <service
+79-->E:\Android\Music\app\src\main\AndroidManifest.xml:74:9-76:40
+80            android:name="com.example.music.service.MusicService"
+80-->E:\Android\Music\app\src\main\AndroidManifest.xml:75:13-49
+81            android:exported="false" />
+81-->E:\Android\Music\app\src\main\AndroidManifest.xml:76:13-37
+82
+83        <provider
+83-->E:\Android\Music\app\src\main\AndroidManifest.xml:78:9-81:40
+84            android:name="cn.bmob.v3.util.BmobContentProvider"
+84-->E:\Android\Music\app\src\main\AndroidManifest.xml:79:13-63
+85            android:authorities="com.example.music.BmobContentProvider"
+85-->E:\Android\Music\app\src\main\AndroidManifest.xml:80:13-72
+86            android:exported="false" />
+86-->E:\Android\Music\app\src\main\AndroidManifest.xml:81:13-37
+87
+88        <service
+88-->[androidx.room:room-runtime:2.2.5] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fc028c9c2c5aaf1516cd9fd111afd77\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+89            android:name="androidx.room.MultiInstanceInvalidationService"
+89-->[androidx.room:room-runtime:2.2.5] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fc028c9c2c5aaf1516cd9fd111afd77\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+90            android:directBootAware="true"
+90-->[androidx.room:room-runtime:2.2.5] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fc028c9c2c5aaf1516cd9fd111afd77\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+91            android:exported="false" />
+91-->[androidx.room:room-runtime:2.2.5] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2fc028c9c2c5aaf1516cd9fd111afd77\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+92    </application>
+93
+94</manifest>

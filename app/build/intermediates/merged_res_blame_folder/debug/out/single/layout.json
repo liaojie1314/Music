@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_song_menu.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_song_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_play.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_playlist.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_comment.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_comment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_private_letter.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_private_letter.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_web.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_local_music.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_local_music.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_artist.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_artist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_feedback.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\include_search_suggest.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\include_search_suggest.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_comment.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_play_list.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_play_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\example_banner_layout.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_banner_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_by_uid.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_login_by_uid.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_song_info.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_song_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycle_item_private_letter.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_item_private_letter.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\menu_main.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_detail_playlist.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_detail_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\example_item_layout.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_playlist.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_player_land.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_player_land.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_by_phone.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_login_by_phone.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_play_more.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_play_more.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_playlist_dialog.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_playlist_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_play_history.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\activity_play_history.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_sound_effect.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_sound_effect.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycle_item_search_hot.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_item_search_hot.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_create_local_playlist.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_create_local_playlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_open_source_item.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\layout_open_source_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_text_info.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\dialog_text_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycle_item_song.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_item_song.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\example_titlebar_layout.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_titlebar_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\example_value_view_layout.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\example_value_view_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Music\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycle_view_playlist_recommend.xml",
+        "source": "E:\\Android\\Music\\app\\src\\main\\res\\layout\\recycle_view_playlist_recommend.xml"
+    }
+]

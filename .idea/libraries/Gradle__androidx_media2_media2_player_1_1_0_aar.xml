@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media2:media2-player:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40565a16acdaca196fce0a9e175e8ad3/jetified-media2-player-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40565a16acdaca196fce0a9e175e8ad3/jetified-media2-player-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40565a16acdaca196fce0a9e175e8ad3/jetified-media2-player-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40565a16acdaca196fce0a9e175e8ad3/jetified-media2-player-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media2/media2-player/1.1.0/c77e4280c4ab3c5720f4ae09e02679e0f0b9697/media2-player-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
