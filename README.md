@@ -20,3 +20,4 @@
 10.动态获取权限（新增）    
 11.查看评论（新增）    
 # 软件截图
+![image](https://github.com/liaojie1314/Music/blob/master/%E6%90%9C%E7%B4%A2.jpg)
