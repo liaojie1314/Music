@@ -1717,6 +1717,7 @@ drawable bg_playlist_recommend_number
 drawable bg_slide_layout
 drawable bg_sticky_nav
 drawable bg_xiami_tape
+drawable boker
 drawable bq_no_data_song
 drawable bq_song_tag_hq
 drawable bq_song_tag_vip
@@ -1729,6 +1730,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable collect
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1736,6 +1738,9 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable drawableTransparent
+drawable emtry_love
+drawable friends
+drawable full_love
 drawable ic_back
 drawable ic_baseline_add_circle_24
 drawable ic_baseline_favorite_border_24
@@ -1786,12 +1791,7 @@ drawable ic_star
 drawable ic_translation
 drawable ic_volume
 drawable icon_bq_song_tag_new
-drawable local_page_buy_bg
-drawable local_page_follow_bg
-drawable local_page_follow_mark
-drawable local_page_latest_mark
-drawable local_page_local_bg
-drawable local_page_music_mark
+drawable local
 drawable lrc_play
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1800,6 +1800,7 @@ drawable material_ic_keyboard_arrow_left_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable more
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1813,7 +1814,6 @@ drawable mz_btn_copy_prev_page
 drawable mz_ic_sb_more_normal
 drawable mz_search_list_search_icon
 drawable mz_titlebar_ic_add_dark
-drawable mz_titlebar_ic_collect_dark
 drawable mz_titlebar_ic_comments_dark
 drawable mz_titlebar_ic_download_dark
 drawable mz_titlebar_ic_information_dark
@@ -1832,8 +1832,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pan
+drawable player
 drawable scrollbar_default
 drawable seek_bar_thumb_btn
+drawable shopped
 drawable switch_thumb
 drawable switch_track
 drawable tape_cell
@@ -1968,11 +1971,13 @@ id chip_group
 id chronometer
 id clArtist
 id clBase
+id clBoker
 id clBottom
 id clCd
 id clControl
 id clDaily
 id clDialog
+id clFriendsMusic
 id clHead
 id clHistory
 id clItem
@@ -1981,13 +1986,16 @@ id clLocalMusic
 id clLoginByPhone
 id clLyric
 id clMenu
+id clMoreSettingsMusic
 id clMusic
 id clMyFavorite
 id clNav
 id clNewPlaylist
+id clPan
 id clPanel
 id clPlay
 id clSendComment
+id clShoppedMusic
 id clSong
 id clTape
 id clTapeCenter
@@ -2127,6 +2135,7 @@ id item_touch_helper_previous_elevation
 id ivArtist
 id ivBack
 id ivBackground
+id ivBoker
 id ivClear
 id ivComment
 id ivCover
@@ -2135,6 +2144,7 @@ id ivDecreasePitch
 id ivDownload
 id ivEqualizer
 id ivFavorite
+id ivFriends
 id ivGoto
 id ivImportPlaylist
 id ivIncreasePitch
@@ -2148,6 +2158,7 @@ id ivMode
 id ivMore
 id ivMusic
 id ivNext
+id ivPan
 id ivPlay
 id ivPlayAll
 id ivPlaylist
@@ -2155,6 +2166,7 @@ id ivScanMusic
 id ivSearch
 id ivSettings
 id ivShare
+id ivShopped
 id ivTapeNextIn
 id ivTapePreviousIn
 id ivTranslation
@@ -2175,6 +2187,7 @@ id listMode
 id list_item
 id llLoading
 id llMain
+id llSecond
 id llTop
 id lottieBackground
 id lottieLoading
@@ -2433,7 +2446,6 @@ id tvUrl
 id tvUserId
 id tvUserName
 id tvValue
-id tvVersion
 id unchecked
 id uniform
 id unlabeled
@@ -2677,6 +2689,7 @@ string back
 string banner_adapter_null_error
 string banner_adapter_use_error
 string bit_rate
+string boker
 string bottom_sheet_behavior
 string cancel
 string center
@@ -2701,6 +2714,7 @@ string fab_transformation_sheet_behavior
 string fans
 string feedback
 string follow
+string friends
 string hide_bottom_view_on_scroll_behavior
 string history
 string home
@@ -2721,6 +2735,7 @@ string material_slider_range_start
 string message
 string more
 string moreSettings
+string moreSettingsMusic
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description
@@ -2762,6 +2777,7 @@ string my_favorite_songs
 string new_playlist
 string open_source_code
 string open_source_introduction
+string pan
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -2780,6 +2796,7 @@ string send
 string sentence_recommend
 string settings
 string shop
+string shopped
 string size
 string slogan
 string song_comment

@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="app_name" translatable="false">Music</string>
     <string name="my">我的</string>
     <string name="home">首页</string>
@@ -29,13 +29,18 @@
     <string name="bit_rate">比特率</string>
     <string name="follow">关注</string>
     <string name="fans">粉丝</string>
+    <string name="shopped">已购</string>
+    <string name="friends">我的好友</string>
+    <string name="pan">云盘</string>
+    <string name="boker">我的博客</string>
+    <string name="moreSettingsMusic">音乐应用</string>
     <string name="pause_song_after_unplug_headset">拔出耳机后暂停播放</string>
     <string name="internet_playlist">在线歌单</string>
     <string name="local_playlist">本地歌单</string>
     <string name="new_playlist">新建歌单</string>
     <string name="import_playlist">导入歌单</string>
-    <string name="local_music">本地</string>
-    <string name="history">历史</string>
+    <string name="local_music">本地/下载</string>
+    <string name="history">最近播放</string>
     <string name="contact_author">联系作者</string>
     <string name="author_email">xxxxxx@qq.com</string>
     <string name="more">更多</string>

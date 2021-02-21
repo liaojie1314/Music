@@ -62,8 +62,8 @@ com/example/music/databinding/LayoutPlaylistDialogBinding.java
  com.example.music.databinding.LayoutPlaylistDialogBinding
 com/example/music/databinding/ActivityPrivateLetterBinding.java
  com.example.music.databinding.ActivityPrivateLetterBinding
-com/example/music/databinding/MenuMainBinding.java
- com.example.music.databinding.MenuMainBinding
+com/example/music/databinding/ActivityPlayerLandBinding.java
+ com.example.music.databinding.ActivityPlayerLandBinding
 com/example/music/widget/TouchArea.java
  com.example.music.widget.TouchArea
 com/example/music/databinding/ActivityArtistBinding.java
@@ -103,5 +103,5 @@ com/example/music/databinding/ActivityLoginBinding.java
  com.example.music.databinding.ActivityLoginBinding
 com/example/music/databinding/ActivityLoginByUidBinding.java
  com.example.music.databinding.ActivityLoginByUidBinding
-com/example/music/databinding/ActivityPlayerLandBinding.java
- com.example.music.databinding.ActivityPlayerLandBinding
+com/example/music/databinding/MenuMainBinding.java
+ com.example.music.databinding.MenuMainBinding

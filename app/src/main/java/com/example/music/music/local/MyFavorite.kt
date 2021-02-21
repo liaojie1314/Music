@@ -12,7 +12,7 @@ import kotlin.concurrent.thread
  */
 object MyFavorite {
 
-    private val myFavoriteDao = MyApplication.appDatabase.myFavoriteDao()
+    private val myFavoriteMusic = MyApplication.appDatabase.myFavoriteDao()
 
     /**
      * 读取本地歌曲
@@ -21,7 +21,7 @@ object MyFavorite {
     fun read(success: (ArrayList<StandardSongData>) -> Unit) {
         thread {
             val data = ArrayList<StandardSongData>()
-            for (myFavorite in myFavoriteDao.loadAll()) {
+            for (myFavorite in myFavoriteMusic.loadAll()) {
                 data.add(0, myFavorite.songData)
             }
             success.invoke(data)
@@ -35,8 +35,8 @@ object MyFavorite {
     fun addSong(songData: StandardSongData) {
         thread {
             val myFavoriteData = MyFavoriteData(songData)
-            if (myFavoriteData !in myFavoriteDao.loadAll()) {
-                myFavoriteDao.insert(myFavoriteData)
+            if (myFavoriteData !in myFavoriteMusic.loadAll()) {
+                myFavoriteMusic.insert(myFavoriteData)
                 toast("添加成功")
             } else {
                 toast("已经添加过了哦~")
@@ -50,7 +50,20 @@ object MyFavorite {
     @TestOnly
     fun delete(songData: StandardSongData) {
         thread {
-            myFavoriteDao.delete(MyFavoriteData(songData))
+            myFavoriteMusic.delete(MyFavoriteData(songData))
+        }
+    }
+    /**
+    *判断歌曲是否在数据库中
+     */
+    fun isExist(songData: StandardSongData,exist:(Boolean)->Unit){
+        thread {
+            val myFavoriteData=MyFavoriteData(songData)
+            if (myFavoriteData in myFavoriteMusic.loadAll()){
+                exist.invoke(true)
+            }else{
+                exist.invoke(false)
+            }
         }
     }
 
@@ -59,7 +72,7 @@ object MyFavorite {
      */
     fun deleteById(id: String) {
         thread {
-            myFavoriteDao.deleteById(id)
+            myFavoriteMusic.deleteById(id)
         }
     }
 

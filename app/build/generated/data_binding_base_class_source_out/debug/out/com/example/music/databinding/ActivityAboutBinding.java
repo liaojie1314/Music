@@ -39,13 +39,10 @@ public final class ActivityAboutBinding implements ViewBinding {
   @NonNull
   public final TextView tvAppName;
 
-  @NonNull
-  public final TextView tvVersion;
-
   private ActivityAboutBinding(@NonNull ConstraintLayout rootView,
       @NonNull ItemLayout itemCheckForUpdates, @NonNull ItemLayout itemTeamWork,
       @NonNull ItemLayout itemUpdateLog, @NonNull ImageView ivLogo,
-      @NonNull TitleBarLayout titleBar, @NonNull TextView tvAppName, @NonNull TextView tvVersion) {
+      @NonNull TitleBarLayout titleBar, @NonNull TextView tvAppName) {
     this.rootView = rootView;
     this.itemCheckForUpdates = itemCheckForUpdates;
     this.itemTeamWork = itemTeamWork;
@@ -53,7 +50,6 @@ public final class ActivityAboutBinding implements ViewBinding {
     this.ivLogo = ivLogo;
     this.titleBar = titleBar;
     this.tvAppName = tvAppName;
-    this.tvVersion = tvVersion;
   }
 
   @Override
@@ -119,14 +115,8 @@ public final class ActivityAboutBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.tvVersion;
-      TextView tvVersion = rootView.findViewById(id);
-      if (tvVersion == null) {
-        break missingId;
-      }
-
       return new ActivityAboutBinding((ConstraintLayout) rootView, itemCheckForUpdates,
-          itemTeamWork, itemUpdateLog, ivLogo, titleBar, tvAppName, tvVersion);
+          itemTeamWork, itemUpdateLog, ivLogo, titleBar, tvAppName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

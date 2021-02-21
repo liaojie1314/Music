@@ -40,7 +40,7 @@
 
         <EditText
             android:id="@+id/etImageUrl"
-            android:hint="封面 URL （可选）"
+            android:hint="封面地址"
             style="@style/default_edit_text"
             />
 

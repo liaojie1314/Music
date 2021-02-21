@@ -223,7 +223,7 @@
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toEndOf="@+id/ivDownload"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/mz_titlebar_ic_collect_dark" />
+                app:srcCompat="@drawable/emtry_love" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

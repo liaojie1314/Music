@@ -208,7 +208,15 @@ class PlayerActivity : SlideBackActivity() {
             // 播放列表
             ivList.setOnClickListener { PlaylistDialog(this@PlayerActivity).show() }
             // 喜欢音乐
-            ivLike.setOnClickListener { playViewModel.likeMusic() }
+            ivLike.setOnClickListener { playViewModel.likeMusic{
+                runOnUiThread {
+                    if (it){
+                        binding.ivLike.setImageDrawable(ContextCompat.getDrawable(this@PlayerActivity,R.drawable.full_love))
+                    }else{
+                        binding.ivLike.setImageDrawable(ContextCompat.getDrawable(this@PlayerActivity,R.drawable.emtry_love))
+                    }
+                }
+            } }
             // CD
             clCd.setOnClickListener {
                 if (binding.clLyric.visibility == View.INVISIBLE) {

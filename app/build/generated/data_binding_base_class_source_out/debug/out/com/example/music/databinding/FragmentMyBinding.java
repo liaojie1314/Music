@@ -27,10 +27,19 @@ public final class FragmentMyBinding implements ViewBinding {
   public final CardView cdNewPlaylist;
 
   @NonNull
+  public final CardView clBoker;
+
+  @NonNull
+  public final CardView clFriendsMusic;
+
+  @NonNull
   public final CardView clHistory;
 
   @NonNull
   public final CardView clLocalMusic;
+
+  @NonNull
+  public final CardView clMoreSettingsMusic;
 
   @NonNull
   public final CardView clMyFavorite;
@@ -39,7 +48,19 @@ public final class FragmentMyBinding implements ViewBinding {
   public final ConstraintLayout clNewPlaylist;
 
   @NonNull
+  public final CardView clPan;
+
+  @NonNull
+  public final CardView clShoppedMusic;
+
+  @NonNull
+  public final ImageView ivBoker;
+
+  @NonNull
   public final ImageView ivFavorite;
+
+  @NonNull
+  public final ImageView ivFriends;
 
   @NonNull
   public final ImageView ivImportPlaylist;
@@ -51,7 +72,19 @@ public final class FragmentMyBinding implements ViewBinding {
   public final ImageView ivLocal;
 
   @NonNull
+  public final ImageView ivMore;
+
+  @NonNull
+  public final ImageView ivPan;
+
+  @NonNull
+  public final ImageView ivShopped;
+
+  @NonNull
   public final LinearLayout llMain;
+
+  @NonNull
+  public final LinearLayout llSecond;
 
   @NonNull
   public final LinearLayout llTop;
@@ -72,24 +105,39 @@ public final class FragmentMyBinding implements ViewBinding {
   public final TextView tvNewPlaylist;
 
   private FragmentMyBinding(@NonNull NestedScrollView rootView, @NonNull CardView cdNewPlaylist,
-      @NonNull CardView clHistory, @NonNull CardView clLocalMusic, @NonNull CardView clMyFavorite,
-      @NonNull ConstraintLayout clNewPlaylist, @NonNull ImageView ivFavorite,
+      @NonNull CardView clBoker, @NonNull CardView clFriendsMusic, @NonNull CardView clHistory,
+      @NonNull CardView clLocalMusic, @NonNull CardView clMoreSettingsMusic,
+      @NonNull CardView clMyFavorite, @NonNull ConstraintLayout clNewPlaylist,
+      @NonNull CardView clPan, @NonNull CardView clShoppedMusic, @NonNull ImageView ivBoker,
+      @NonNull ImageView ivFavorite, @NonNull ImageView ivFriends,
       @NonNull ImageView ivImportPlaylist, @NonNull ImageView ivLatest, @NonNull ImageView ivLocal,
-      @NonNull LinearLayout llMain, @NonNull LinearLayout llTop,
+      @NonNull ImageView ivMore, @NonNull ImageView ivPan, @NonNull ImageView ivShopped,
+      @NonNull LinearLayout llMain, @NonNull LinearLayout llSecond, @NonNull LinearLayout llTop,
       @NonNull RecyclerView rvLocalPlaylist, @NonNull RecyclerView rvPlaylist,
       @NonNull TextView tvInternetPlaylist, @NonNull TextView tvLocalPlaylist,
       @NonNull TextView tvNewPlaylist) {
     this.rootView = rootView;
     this.cdNewPlaylist = cdNewPlaylist;
+    this.clBoker = clBoker;
+    this.clFriendsMusic = clFriendsMusic;
     this.clHistory = clHistory;
     this.clLocalMusic = clLocalMusic;
+    this.clMoreSettingsMusic = clMoreSettingsMusic;
     this.clMyFavorite = clMyFavorite;
     this.clNewPlaylist = clNewPlaylist;
+    this.clPan = clPan;
+    this.clShoppedMusic = clShoppedMusic;
+    this.ivBoker = ivBoker;
     this.ivFavorite = ivFavorite;
+    this.ivFriends = ivFriends;
     this.ivImportPlaylist = ivImportPlaylist;
     this.ivLatest = ivLatest;
     this.ivLocal = ivLocal;
+    this.ivMore = ivMore;
+    this.ivPan = ivPan;
+    this.ivShopped = ivShopped;
     this.llMain = llMain;
+    this.llSecond = llSecond;
     this.llTop = llTop;
     this.rvLocalPlaylist = rvLocalPlaylist;
     this.rvPlaylist = rvPlaylist;
@@ -131,6 +179,18 @@ public final class FragmentMyBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.clBoker;
+      CardView clBoker = rootView.findViewById(id);
+      if (clBoker == null) {
+        break missingId;
+      }
+
+      id = R.id.clFriendsMusic;
+      CardView clFriendsMusic = rootView.findViewById(id);
+      if (clFriendsMusic == null) {
+        break missingId;
+      }
+
       id = R.id.clHistory;
       CardView clHistory = rootView.findViewById(id);
       if (clHistory == null) {
@@ -140,6 +200,12 @@ public final class FragmentMyBinding implements ViewBinding {
       id = R.id.clLocalMusic;
       CardView clLocalMusic = rootView.findViewById(id);
       if (clLocalMusic == null) {
+        break missingId;
+      }
+
+      id = R.id.clMoreSettingsMusic;
+      CardView clMoreSettingsMusic = rootView.findViewById(id);
+      if (clMoreSettingsMusic == null) {
         break missingId;
       }
 
@@ -155,9 +221,33 @@ public final class FragmentMyBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.clPan;
+      CardView clPan = rootView.findViewById(id);
+      if (clPan == null) {
+        break missingId;
+      }
+
+      id = R.id.clShoppedMusic;
+      CardView clShoppedMusic = rootView.findViewById(id);
+      if (clShoppedMusic == null) {
+        break missingId;
+      }
+
+      id = R.id.ivBoker;
+      ImageView ivBoker = rootView.findViewById(id);
+      if (ivBoker == null) {
+        break missingId;
+      }
+
       id = R.id.ivFavorite;
       ImageView ivFavorite = rootView.findViewById(id);
       if (ivFavorite == null) {
+        break missingId;
+      }
+
+      id = R.id.ivFriends;
+      ImageView ivFriends = rootView.findViewById(id);
+      if (ivFriends == null) {
         break missingId;
       }
 
@@ -179,9 +269,33 @@ public final class FragmentMyBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.ivMore;
+      ImageView ivMore = rootView.findViewById(id);
+      if (ivMore == null) {
+        break missingId;
+      }
+
+      id = R.id.ivPan;
+      ImageView ivPan = rootView.findViewById(id);
+      if (ivPan == null) {
+        break missingId;
+      }
+
+      id = R.id.ivShopped;
+      ImageView ivShopped = rootView.findViewById(id);
+      if (ivShopped == null) {
+        break missingId;
+      }
+
       id = R.id.llMain;
       LinearLayout llMain = rootView.findViewById(id);
       if (llMain == null) {
+        break missingId;
+      }
+
+      id = R.id.llSecond;
+      LinearLayout llSecond = rootView.findViewById(id);
+      if (llSecond == null) {
         break missingId;
       }
 
@@ -221,10 +335,11 @@ public final class FragmentMyBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentMyBinding((NestedScrollView) rootView, cdNewPlaylist, clHistory,
-          clLocalMusic, clMyFavorite, clNewPlaylist, ivFavorite, ivImportPlaylist, ivLatest,
-          ivLocal, llMain, llTop, rvLocalPlaylist, rvPlaylist, tvInternetPlaylist, tvLocalPlaylist,
-          tvNewPlaylist);
+      return new FragmentMyBinding((NestedScrollView) rootView, cdNewPlaylist, clBoker,
+          clFriendsMusic, clHistory, clLocalMusic, clMoreSettingsMusic, clMyFavorite, clNewPlaylist,
+          clPan, clShoppedMusic, ivBoker, ivFavorite, ivFriends, ivImportPlaylist, ivLatest,
+          ivLocal, ivMore, ivPan, ivShopped, llMain, llSecond, llTop, rvLocalPlaylist, rvPlaylist,
+          tvInternetPlaylist, tvLocalPlaylist, tvNewPlaylist);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -36,7 +36,11 @@ class MyFragment : Fragment() {
 
     private val myFragmentViewModel: MyFragmentViewModel by viewModels()
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
         _binding = FragmentMyBinding.inflate(inflater, container, false)
         return binding.root
     }
@@ -82,6 +86,26 @@ class MyFragment : Fragment() {
                 val intent = Intent(this@MyFragment.context, PlayHistoryActivity::class.java)
                 startActivity(intent)
             }
+            //已购
+            clShoppedMusic.setOnClickListener {
+                toast("开发中")
+            }
+            //我的好友
+            clFriendsMusic.setOnClickListener {
+                toast("开发中")
+            }
+            //云盘
+            clPan.setOnClickListener {
+                toast("开发中")
+            }
+            //我的博客
+            clBoker.setOnClickListener {
+                toast("开发中")
+            }
+            //音乐应用
+            clMoreSettingsMusic.setOnClickListener {
+                toast("开发中")
+            }
         }
     }
 
@@ -105,10 +129,11 @@ class MyFragment : Fragment() {
     private fun setPlaylist(playlist: ArrayList<PlaylistData>) {
 
         runOnMainThread {
-            binding.rvPlaylist.layoutManager =  LinearLayoutManager(this.context)
+            binding.rvPlaylist.layoutManager = LinearLayoutManager(this.context)
             binding.rvPlaylist.adapter = activity?.let { it1 -> PlaylistAdapter(playlist, it1) }
         }
     }
+
     override fun onDestroy() {
         super.onDestroy()
     }
