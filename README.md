@@ -1,5 +1,5 @@
 # Music
-使用Kotlin开发的一款音乐app
+使用java和Kotlin开发的一款音乐app
 # 使用的网易云接口  
 1.获取歌曲详情  
 2.获取用户歌单   
