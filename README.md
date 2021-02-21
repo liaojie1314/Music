@@ -20,5 +20,8 @@
 10.动态获取权限（新增）    
 11.查看评论（新增）    
 # 软件截图
-![image](https://github.com/liaojie1314/Music/blob/master/%E6%90%9C%E7%B4%A2.jpg)  
-![image](https://github.com/liaojie1314/Music/blob/master/%E6%90%9C%E7%B4%A2.jpg)
+![image](https://github.com/liaojie1314/Music/blob/master/song.jpg)  
+![image](https://github.com/liaojie1314/Music/blob/master/collection.jpg)   
+![image](https://github.com/liaojie1314/Music/blob/master/search.jpg)   
+![image](https://github.com/liaojie1314/Music/blob/master/home.jpg)   
+![image](https://github.com/liaojie1314/Music/blob/master/player.jpg)  
